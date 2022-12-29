@@ -1,0 +1,30 @@
+header{
+    text-align: bottom;
+    margin-top: 180px;
+    background-color: rosybrown;
+    padding: 20px;
+    color:pink;
+
+}
+#one{
+    background-color: rgb(19, 132, 42);
+    flex:60%;
+}
+p{
+    font-size:20px;
+}
+#two{
+    background-color:azure;
+    flex:60%;
+    padding-left: 30px;
+    color: rgb(33, 95, 72);
+    font-size: 45px;
+    font-weight: 500; 
+}
+div{
+    display:flex;
+    height:770px;
+}
+body{
+    background-color: rgb(17, 31, 46);
+}

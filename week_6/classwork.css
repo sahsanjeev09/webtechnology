@@ -1,0 +1,25 @@
+
+header, footer{
+    background-color: brown;
+    color:blanchedalmond;
+    padding:20px;
+    height:200px;
+    text-align:center;
+    font-size: 50px;
+}
+#Cont{
+    background-color: blue;
+    text-align: center;
+    height: auto;
+    flex: 3;
+}
+#Side{
+    background-color: blue;
+    text-align: center;
+    height: auto;
+    flex:1;
+}
+section{
+    display:flex;
+    height: 200px;
+}

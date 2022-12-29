@@ -1,0 +1,39 @@
+header,footer{
+    text-align: center;
+    background-color: rgb(127, 131, 123);
+    padding: 20px;
+    color: bisque;
+
+}
+#one{
+    background-color:antiquewhite;
+    flex:60%;
+    padding-left: 30px;
+    color: rgb(1, 23, 15);
+    font-size: 45px;
+    font-weight: 500;
+}
+p{
+    font-size: 30px;
+}
+p,h2,h3{
+    font-size:30px 20px;
+}
+button{
+    align: right;
+    color: green;
+    background-color: darkseagreen;
+}
+
+
+#two{
+    background-color: rgb(143, 207, 164);
+    flex:40%;
+}
+div{
+    display:flex;
+    height:770px;
+}
+body{
+    background-color: rgb(17, 31, 46);
+}

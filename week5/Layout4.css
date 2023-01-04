@@ -1,6 +1,6 @@
 
 #one{
-    background-color:antiquewhite;
+    background-color:rgb(51, 240, 164);
     flex:60%;
     padding-left: 30px;
     color: rgb(1, 23, 15);
@@ -9,9 +9,7 @@
 }
 p{
     font-size: 30px;
-}
-p,h2,h3{
-    font-size:30px 20px;
+    padding-bottom: 50px;
 }
 button{
     align: right;
@@ -21,7 +19,7 @@ button{
 
 
 #two{
-    background-color: rgb(143, 207, 164);
+    background-color: rgb(5, 141, 50);
     flex:40%;
 }
 div{

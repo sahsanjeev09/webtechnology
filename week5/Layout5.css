@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    background-color:rgb(51, 240, 164);
+    padding-left: 30px;
+    color: rgb(1, 23, 15);
+    font-size: 45px;
+    font-weight: 300;
+    flex: 50%;
+}
+#two{
+    background-color:rgb(51, 240, 164);
+    padding-left: 30px;
+    color: rgb(1, 23, 15);
+    font-size: 45px;
+    font-weight: 300;
+    flex: 50%;
+}
+#three{
+    background-color:rgb(51, 240, 164);
+    padding-left: 30px;
+    color: rgb(1, 23, 15);
+    font-size: 45px;
+    font-weight: 300;
+    flex: 50%;
+}
+#first{
+    display:flex;
+}
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    background-color: rgb(51, 240, 164);
+}
+h6{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+p{
+    font-size: 20px;
+}

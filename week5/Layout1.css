@@ -1,10 +1,4 @@
-header,footer{
-    text-align: center;
-    background-color: rgb(127, 131, 123);
-    padding: 20px;
-    color: bisque;
 
-}
 #one{
     background-color:antiquewhite;
     flex:60%;
